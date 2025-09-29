@@ -71,7 +71,7 @@
    pip install pandas numpy scikit-learn catboost matplotlib
 3. Поместите датасет в папку проекта:
    ```bash
-  WA_Fn-UseC_-Telco-Customer-Churn.csv
+   "WA_Fn-UseC_-Telco-Customer-Churn.csv"
 3. Запустите скрипт:
    ```bash
   python churn_prediction.py
