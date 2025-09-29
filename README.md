@@ -66,3 +66,7 @@
    ```bash
    git clone https://github.com/yourusername/customer-churn-prediction.git
    cd customer-churn-prediction
+2. Установите зависимости:
+   ```bash
+   pip install pandas numpy scikit-learn catboost matplotlib
+4. 
